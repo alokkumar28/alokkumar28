@@ -75,5 +75,5 @@ To become a Cloud & DevOps Engineer and build scalable, reliable, and automated 
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/alokkumariiit
-- LinkedIn: https://linkedin.com/in/alokkumariiit
+- GitHub: https://github.com/alokkumar28
+- LinkedIn: https://linkedin.com/in/alokkumar28
